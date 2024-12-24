@@ -24,8 +24,8 @@ export const LightTheme = responsiveFontSizes(
       },
     },
     typography: {
-      fontSize: 16,
-      htmlFontSize: 16,
+      fontSize: 2,
+      htmlFontSize: 2,
       h2: {
         fontWeight: 500,
       },
@@ -116,8 +116,8 @@ export const DarkTheme = responsiveFontSizes(
       },
     },
     typography: {
-      fontSize: 16,
-      htmlFontSize: 16,
+      fontSize: 2,
+      htmlFontSize: 2,
       h2: {
         fontWeight: 500,
       },

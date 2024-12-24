@@ -1,48 +1,36 @@
 {
     "basics": {
-        "name": "Jo Lienhoop",
-        "label": "Computer Science student",
-        "email": "hey@jolienhoop.com",
-        "phone": "(XXX) XXX-XXXX",
+        "name": "Шипилов Максим Дмитриевич",
+        "label": "Студент 2 курса Программной инженерии МатМеха",
+        "email": "shipilovmaksim05@gmail.com",
+        "phone": "8 (917) 919-1898",
         "picture": "jl.png",
-        "x_title": "Hey, I'm",
-        "job": "CS student",
-        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
-        "summary": "based in Bremen, Germany.",
-        "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "x_title": "Привет, я",
+        "job": "Студент СПБГУ",
+        "description": "Увлекаюсь программированием и конечными автоматами! Учусь на 2ом курсе Программной Инженерии СПБГУ, могу запилить вам веб сервис на go!",
+        "summary": "живу в Санкт-Петербурге",
+        "keywords": "personal,website,portfolio,template,kit,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "google.com",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
-            "countryCode": "DEU",
-            "region": "Bremen"
+            "city": "Санкт-Петербург",
+            "country": "Россия",
+            "countryCode": "RU",
+            "region": "Санкт-Петербург"
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "hey@jolienhoop.com",
-                "url": "mailto:hey@jolienhoop.com",
+                "username": "shipilovmaksim05@gmail.com",
+                "url": "mailto:shipilovmaksim05@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
-                "network": "LinkedIn",
-                "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
-                "x_icon": "fab fa-linkedin-in"
-            },
-            {
                 "network": "GitHub",
-                "username": "johoop",
-                "url": "https://github.com/JoHoop",
+                "username": "mshipilov5",
+                "url": "https://github.com/mshipilov5",
                 "x_icon": "fab fa-github"
-            },
-            {
-                "network": "GitLab",
-                "username": "joli",
-                "url": "https://gitlab.informatik.uni-bremen.de/joli",
-                "x_icon": "fab fa-gitlab"
             }
         ]
     },
@@ -70,11 +58,11 @@
     ],
     "education": [
         {
-            "institution": "University",
-            "area": "Software Development",
+            "institution": "СПБГУ",
+            "area": "Программная инженерия",
             "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "startDate": "2023-09-01",
+            "endDate": "2027-07-01",
             "gpa": "4.0",
             "courses": ["DB1101 - Basic SQL"]
         }

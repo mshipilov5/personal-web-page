@@ -1,0 +1,54 @@
+src
+├── app
+│   ├── App.js
+│   └── HelmetMeta.js
+├── backend
+│   └── server.js
+├── components
+│   ├── background
+│   │   ├── DisplacementSphere.css
+│   │   ├── DisplacementSphere.js
+│   │   ├── sphereFragShader.js
+│   │   └── sphereVertShader.js
+│   ├── content
+│   │   ├── Content.js
+│   │   ├── LoginButton.js
+│   │   ├── SocialIcons.js
+│   │   ├── SponsorButton.js
+│   │   ├── TextDecrypt.js
+│   │   ├── Today.js
+│   │   └── vkLoginButton.js
+│   ├── footer
+│   │   └── FooterText.js
+│   ├── logo
+│   │   ├── Logo.js
+│   │   └── LogoLink.js
+│   ├── speedDial
+│   │   └── SpeedDial.js
+│   └── theme
+│       ├── ThemeProvider.js
+│       ├── ThemeToggle.js
+│       └── Themes.js
+├── hooks
+│   ├── useInViewport.js
+│   └── usePrefersReducedMotion.js
+├── index.css
+├── index.js
+├── pages
+│   ├── Callback.js
+│   ├── Error.js
+│   ├── Home.js
+│   ├── PageNotFound.js
+│   ├── Resume.js
+│   └── Success.js
+├── settings
+│   ├── resume.json
+│   └── settings.json
+└── utils
+    ├── getName.js
+    ├── logCredits.js
+    ├── style.js
+    ├── three.js
+    └── transition.js
+
+14 directories, 38 files

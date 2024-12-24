@@ -7,11 +7,11 @@ export const logCredits = () => {
         `color: ${primary}`,
         "font-size: 3em",
         "font-weight: 300",
-        "padding: 100px 0px 100px 0px",
+        "padding: 10px 0px 100px 0px",
     ].join(";");
 
     return console.log(
-        `%c © ${new Date().getFullYear()} github.com/johoop ${pieceEmoji}`,
+        `%c © ${new Date().getFullYear()} github.com/mshipilov5 ${pieceEmoji}`,
         logStyle
     );
 };
